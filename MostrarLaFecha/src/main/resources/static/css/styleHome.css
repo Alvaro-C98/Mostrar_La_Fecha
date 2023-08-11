@@ -1,0 +1,6 @@
+@charset "ISO-8859-1";
+ul > li {
+	display: inline-block;
+	font-size: 350%;
+	margin: 200px 0px 0px 100px;
+}
