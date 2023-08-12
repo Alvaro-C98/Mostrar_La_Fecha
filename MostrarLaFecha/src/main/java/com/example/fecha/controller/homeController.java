@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class homeController {
-
+	
 	@RequestMapping("/date")
 	public String dates(Model model) {
 		java.util.Date date = new java.util.Date();
